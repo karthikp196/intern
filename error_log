@@ -1,0 +1,22 @@
+[16-Oct-2019 05:03:33 UTC] PHP Fatal error:  Call to undefined function mb_strtoupper() in /home/internmasters/public_html/application/controllers/Controller.php on line 183
+[16-Oct-2019 05:04:24 UTC] PHP Fatal error:  Call to undefined function mb_strtoupper() in /home/internmasters/public_html/application/controllers/Controller.php on line 183
+[16-Oct-2019 05:06:19 UTC] PHP Fatal error:  Call to undefined function mb_strtoupper() in /home/internmasters/public_html/application/controllers/Controller.php on line 183
+[16-Oct-2019 05:12:39 UTC] PHP Fatal error:  Call to undefined function random_bytes() in /home/internmasters/public_html/application/controllers/Controller.php on line 184
+[16-Oct-2019 06:55:19 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/internmasters/public_html/application/controllers/Controller.php on line 517
+[16-Oct-2019 06:56:10 UTC] PHP Fatal error:  Call to a member function result() on null in /home/internmasters/public_html/application/controllers/Controller.php on line 517
+[16-Oct-2019 06:56:58 UTC] PHP Fatal error:  Call to a member function result() on null in /home/internmasters/public_html/application/controllers/Controller.php on line 517
+[16-Oct-2019 06:57:35 UTC] PHP Fatal error:  Call to a member function result() on null in /home/internmasters/public_html/application/controllers/Controller.php on line 517
+[16-Oct-2019 06:57:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/internmasters/public_html/application/controllers/Controller.php on line 462
+[16-Oct-2019 06:58:20 UTC] PHP Fatal error:  Call to a member function result() on null in /home/internmasters/public_html/application/controllers/Controller.php on line 517
+[16-Oct-2019 07:01:06 UTC] PHP Fatal error:  Call to a member function result() on null in /home/internmasters/public_html/application/controllers/Controller.php on line 517
+[16-Oct-2019 07:19:45 UTC] PHP Fatal error:  Call to a member function result() on null in /home/internmasters/public_html/application/controllers/Controller.php on line 518
+[16-Oct-2019 07:25:27 UTC] PHP Fatal error:  Call to a member function result() on null in /home/internmasters/public_html/application/controllers/Controller.php on line 518
+[16-Oct-2019 07:38:28 UTC] PHP Fatal error:  Call to a member function result() on null in /home/internmasters/public_html/application/controllers/Controller.php on line 518
+[17-Oct-2019 05:01:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/internmasters/public_html/application/views/championmanagment.php on line 374
+[17-Oct-2019 07:21:13 UTC] PHP Fatal error:  Call to undefined function alert() in /home/internmasters/public_html/application/controllers/Controller.php on line 672
+[18-Oct-2019 09:10:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/internmasters/public_html/application/controllers/Controller.php on line 469
+[18-Oct-2019 09:14:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/internmasters/public_html/application/controllers/Controller.php on line 469
+[18-Oct-2019 09:33:21 UTC] PHP Fatal error:  Call to a member function result() on null in /home/internmasters/public_html/application/controllers/Controller.php on line 702
+[18-Oct-2019 09:33:36 UTC] PHP Fatal error:  Call to a member function result() on null in /home/internmasters/public_html/application/controllers/Controller.php on line 702
+[18-Oct-2019 09:33:57 UTC] PHP Fatal error:  Call to a member function result() on null in /home/internmasters/public_html/application/controllers/Controller.php on line 702
+[18-Oct-2019 09:35:49 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/internmasters/public_html/application/controllers/Controller.php on line 704
